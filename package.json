@@ -1,0 +1,22 @@
+{
+  "name": "wadata",
+  "version": "0.0.0",
+  "description": "sa da tay my mayne",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RnbWd/wadata.git"
+  },
+  "keywords": [
+    "wadata"
+  ],
+  "author": "RnbWd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RnbWd/wadata/issues"
+  },
+  "homepage": "https://github.com/RnbWd/wadata#readme"
+}
